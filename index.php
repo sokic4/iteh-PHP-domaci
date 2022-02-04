@@ -78,9 +78,9 @@ include "connection.php";
 
 	<div class="topnav">
 	  <a class="active" href="index.php?strana=prikazi" style="font-size:200%; color:white">Prikaži</a>
-	  <a href="index.php?strana=ubaci" style="font-size:200%; color:white">Ubaci</a>
-	  <a href="index.php?strana=izmeni" style="font-size:200%; color:white">Izmeni</a>
-	  <a href="index.php?strana=obrisi" style="font-size:200%; color:white">Obriši</a>
+	  <a class="active" href="index.php?strana=ubaci" style="font-size:200%; color:white">Ubaci</a>
+	  <a class="active" href="index.php?strana=izmeni" style="font-size:200%; color:white">Izmeni</a>
+	  <a class="active" href="index.php?strana=obrisi" style="font-size:200%; color:white">Obriši</a>
 	</div>
 	
 
