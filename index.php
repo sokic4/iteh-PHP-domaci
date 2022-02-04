@@ -220,7 +220,15 @@ include "connection.php";
 
     }
     ?>
-	
+	<style>
+		#user{
+			background-color: white;
+			width: 50%;
+			border-radius: 10px;
+			text-align: center;
+			margin-top: 5px;
+		}
+	</style>
 	
 </body>
 </html>
