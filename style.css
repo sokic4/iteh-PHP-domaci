@@ -133,7 +133,7 @@ input[type=submit] {
 }
 
 .topnav {
-    background-color: white;
+    margin-left: 70px;
     overflow: hidden;
 }
 
