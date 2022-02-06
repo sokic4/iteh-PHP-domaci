@@ -18,7 +18,7 @@ include "connection.php";
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<style>
 		body {
-			background: url("https://www.anunlikelystory.com/sites/anunlikelystory.com/files/bookstore.jpg");
+			background: url("https://base.uzice.online/2020/05/inaki-del-olmo-NIJuEQw0RKg-unsplash-738x492.jpg");
 			background-size: 100%;
 			
 		}
